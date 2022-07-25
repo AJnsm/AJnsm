@@ -7,4 +7,4 @@ More info at https://abeljansma.nl
 
 
 ![AJnsm's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJnsm&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJnsm&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJnsm&count_private=true)]
