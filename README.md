@@ -8,9 +8,6 @@ I am currently a PhD candidate at the University of Edinburgh, and a fellow at t
 
 More info at https://abeljansma.nl
 
-
-![AJnsm's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJnsm&count_private=true&theme=prussian)
-
 ## Most used languages and tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  height="50"/>&nbsp;
