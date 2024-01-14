@@ -3,8 +3,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # About me
 
-Hi 👋 I'm Abel. I'm interested in physics, biology, causality, and universality, and I think they are all related.
-I am currently a PhD candidate at the University of Edinburgh, and a fellow at the Ethereum Foundation. 
+Hi 👋 I'm Abel. I'm a postdoctoral researcher the Max Planck Institute for Mathematics in the Sciences, wher I use machine learning, causal analysis, and high-performance computing to understand emergent structures in complex living systems. 
 
 More info at https://abeljansma.nl
 
